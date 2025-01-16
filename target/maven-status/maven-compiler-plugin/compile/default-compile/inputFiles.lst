@@ -1,5 +1,6 @@
 C:\Users\user\git\08_Forum\src\main\java\telran\java55\accounting\controller\UserAccountController.java
 C:\Users\user\git\08_Forum\src\main\java\telran\java55\accounting\dao\UserAccountRepository.java
+C:\Users\user\git\08_Forum\src\main\java\telran\java55\accounting\dto\exception\UserNotFoundException.java
 C:\Users\user\git\08_Forum\src\main\java\telran\java55\accounting\dto\RolesDto.java
 C:\Users\user\git\08_Forum\src\main\java\telran\java55\accounting\dto\UserDto.java
 C:\Users\user\git\08_Forum\src\main\java\telran\java55\accounting\dto\UserEditDto.java
